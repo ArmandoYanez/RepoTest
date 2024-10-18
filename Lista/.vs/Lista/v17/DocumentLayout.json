@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alumnos\\source\\repos\\Lista\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8A2629-7B48-483C-AD1F-89F1AE33F60C}|Lista\\Lista.vcxproj|C:\\Users\\Alumnos\\source\\repos\\Lista\\Lista\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DD8A2629-7B48-483C-AD1F-89F1AE33F60C}|Lista\\Lista.vcxproj|solutionrelative:Lista\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "source.cpp",
+              "DocumentMoniker": "C:\\Users\\Alumnos\\source\\repos\\Lista\\Lista\\source.cpp",
+              "RelativeDocumentMoniker": "Lista\\source.cpp",
+              "ToolTip": "C:\\Users\\Alumnos\\source\\repos\\Lista\\Lista\\source.cpp",
+              "RelativeToolTip": "Lista\\source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-06T18:30:53.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
